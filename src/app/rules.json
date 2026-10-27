@@ -1,0 +1,63 @@
+
+[
+  {
+    "question": "What are your opening hours?",
+    "answer": "DineDesk is open every day from 11:00 AM to 11:00 PM. Our kitchen accepts orders until 10:30 PM."
+  },
+  {
+    "question": "Where is your restaurant located?",
+    "answer": "Our fictional restaurant is located on Main Food Street, Sargodha, Punjab, Pakistan."
+  },
+  {
+    "question": "What food do you serve?",
+    "answer": "Our sample menu includes burgers, pizza, chicken sandwiches, fries, salads, pasta, soft drinks, tea, and coffee."
+  },
+  {
+    "question": "How much does a chicken burger cost?",
+    "answer": "Our sample chicken burger costs PKR 650. This is a fictional price for the student project."
+  },
+  {
+    "question": "How much does a beef burger cost?",
+    "answer": "Our sample beef burger costs PKR 800. This is a fictional price for the student project."
+  },
+  {
+    "question": "Do you have vegetarian food?",
+    "answer": "Yes! Our sample vegetarian options include vegetable pizza, garden salad, and vegetarian pasta. Please confirm ingredients if you have specific dietary requirements."
+  },
+  {
+    "question": "Do you offer home delivery?",
+    "answer": "In our demonstration, home delivery is available within a sample five-kilometre radius, subject to availability."
+  },
+  {
+    "question": "How long does delivery take?",
+    "answer": "Our sample delivery estimate is 30 to 45 minutes. Actual delivery times may vary."
+  },
+  {
+    "question": "Can I reserve a table?",
+    "answer": "Yes, you can request a table reservation by providing your preferred date, time, and number of guests to restaurant staff. This demo chatbot does not confirm real bookings."
+  },
+  {
+    "question": "What payment methods do you accept?",
+    "answer": "Our sample restaurant accepts cash and debit or credit cards. These are demonstration options, not verified real-world services."
+  },
+  {
+    "question": "Do you offer any discounts?",
+    "answer": "Our fictional sample offer is 10% off orders above PKR 2,000. This is a demonstration offer and cannot be redeemed."
+  },
+  {
+    "question": "Do you offer takeaway?",
+    "answer": "Yes! Our sample restaurant offers takeaway, with an estimated preparation time of 15 to 25 minutes depending on the order."
+  },
+  {
+    "question": "How can I contact the restaurant?",
+    "answer": "DineDesk is a fictional student project and does not have a real phone number or email address."
+  },
+  {
+    "question": "Do you have a kids' menu?",
+    "answer": "Our sample kids' menu includes a mini chicken burger, small fries, and a juice box. These are example menu items for this project."
+  },
+  {
+    "question": "Do you provide catering for events?",
+    "answer": "Our demonstration restaurant can provide sample catering packages for birthdays and small gatherings. Please contact restaurant staff to discuss event requirements."
+  }
+]
